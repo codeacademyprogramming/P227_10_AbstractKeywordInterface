@@ -1,0 +1,9 @@
+C:\Users\Eagha\Desktop\CodeLessons\P227\17.03-06-2022\03052022\HomeworkClassLibrary\bin\Debug\netcoreapp3.1\HomeworkClassLibrary.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\17.03-06-2022\03052022\HomeworkClassLibrary\bin\Debug\netcoreapp3.1\HomeworkClassLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\17.03-06-2022\03052022\HomeworkClassLibrary\bin\Debug\netcoreapp3.1\HomeworkClassLibrary.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\17.03-06-2022\03052022\HomeworkClassLibrary\obj\Debug\netcoreapp3.1\HomeworkClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P227\17.03-06-2022\03052022\HomeworkClassLibrary\obj\Debug\netcoreapp3.1\HomeworkClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\17.03-06-2022\03052022\HomeworkClassLibrary\obj\Debug\netcoreapp3.1\HomeworkClassLibrary.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P227\17.03-06-2022\03052022\HomeworkClassLibrary\obj\Debug\netcoreapp3.1\HomeworkClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\17.03-06-2022\03052022\HomeworkClassLibrary\obj\Debug\netcoreapp3.1\HomeworkClassLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\17.03-06-2022\03052022\HomeworkClassLibrary\obj\Debug\netcoreapp3.1\HomeworkClassLibrary.pdb
